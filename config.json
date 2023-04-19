@@ -11,7 +11,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"50054ea0-309e-4945-a0e1-268e627f998f",
+                      "id":"37d1c0e3-8c91-4455-bfc4-a75ae3890577",
                       "flow":"xtls-rprx-direct"
                   }
               ],
@@ -21,19 +21,19 @@
                       "dest":3001
                   },
                   {
-                      "path":"/50054ea0-309e-4945-a0e1-268e627f998f-vl",
+                      "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-vl",
                       "dest":3002
                   },
                   {
-                      "path":"/50054ea0-309e-4945-a0e1-268e627f998f-vm",
+                      "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-vm",
                       "dest":3003
                   },
                   {
-                      "path":"/50054ea0-309e-4945-a0e1-268e627f998f-tr",
+                      "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-tr",
                       "dest":3004
                   },
                   {
-                      "path":"/50054ea0-309e-4945-a0e1-268e627f998f-ss",
+                      "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-ss",
                       "dest":3005
                   }
               ]
@@ -49,7 +49,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"50054ea0-309e-4945-a0e1-268e627f998f"
+                      "id":"37d1c0e3-8c91-4455-bfc4-a75ae3890577"
                   }
               ],
               "decryption":"none"
@@ -66,7 +66,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"50054ea0-309e-4945-a0e1-268e627f998f",
+                      "id":"37d1c0e3-8c91-4455-bfc4-a75ae3890577",
                       "level":0,
                       "email":"argo@xray"
                   }
@@ -77,7 +77,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/50054ea0-309e-4945-a0e1-268e627f998f-vl"
+                  "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-vl"
               }
           },
           "sniffing":{
@@ -97,7 +97,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"50054ea0-309e-4945-a0e1-268e627f998f",
+                      "id":"37d1c0e3-8c91-4455-bfc4-a75ae3890577",
                       "alterId":0
                   }
               ]
@@ -105,7 +105,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/50054ea0-309e-4945-a0e1-268e627f998f-vm"
+                  "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-vm"
               }
           },
           "sniffing":{
@@ -125,7 +125,7 @@
           "settings":{
               "clients":[
                   {
-                      "password":"50054ea0-309e-4945-a0e1-268e627f998f"
+                      "password":"37d1c0e3-8c91-4455-bfc4-a75ae3890577"
                   }
               ]
           },
@@ -133,7 +133,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/50054ea0-309e-4945-a0e1-268e627f998f-tr"
+                  "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-tr"
               }
           },
           "sniffing":{
@@ -154,7 +154,7 @@
               "clients":[
                   {
                       "method":"chacha20-ietf-poly1305",
-                      "password":"50054ea0-309e-4945-a0e1-268e627f998f"
+                      "password":"37d1c0e3-8c91-4455-bfc4-a75ae3890577"
                   }
               ],
               "decryption":"none"
@@ -162,7 +162,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/50054ea0-309e-4945-a0e1-268e627f998f-ss"
+                  "path":"/37d1c0e3-8c91-4455-bfc4-a75ae3890577-ss"
               }
           },
           "sniffing":{
